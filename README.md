@@ -2,5 +2,6 @@
 
 Objectives
 
--Learn Netlogo
--Eat food
+- Learn Netlogo
+- Eat food
+- Learn to git
