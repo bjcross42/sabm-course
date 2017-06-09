@@ -1,2 +1,6 @@
-# sabm-course
-New Netlogo model
+# Sesync ABM Course Project
+
+Objectives
+
+-Learn Netlogo
+-Eat food
